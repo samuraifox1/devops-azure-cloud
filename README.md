@@ -1,4 +1,5 @@
-# Architecturing Modern DevOps Application and Infra 
+# Architecturing Modern DevOps Application and Infra
+## With Azure Cloud, Azure DevOps and
 TODO list of the small projects I need to execute in order to improve my understanding of the architecturing modern devops app and infra and demostrate the same.
 
 ## Explore Infrastructure as Code - Terrraform and Azure Cloud Services 
@@ -19,7 +20,26 @@ TODO list of the small projects I need to execute in order to improve my underst
 ## Explore Configuration management with Ansible and Azure Cloud Services 
 * Configure and install softwares on Azure VM
 
+## Security Left-Shift (DevSecOps)
+* Code Quality in Azure Pipelines using SonarQube 
+* OWASP ZAP Vulnerability Scan in Azure Pipeline
+
+## Testing integration
+* Unit Test Integration with Azure Devops Test Services 
+* Bug ID creation in Azure DevOps
+
+## MLOps With Azure DevOps
+* To be explored 
 
 
+## Notes:
+* Infrastructure: Azure Cloud Services
+* Containerization: AKS & OpenShift 
+* IAC Provisioning: Terraform
+* Configuration Management: Ansible 
+* Source Control: Github
+* IDE: Visual Studio Code, Visual Studio 2019
+* CICD Automation: Azure Devops Pipelines
+* Tracebaility & Workflow: Azure DevOps Boards 
 
 
