@@ -1,5 +1,5 @@
 # Architecturing Modern DevOps Application and Infra
-## With Azure Cloud, Azure DevOps and
+## With Azure Cloud, Azure DevOps and other Tools
 TODO list of the small projects I need to execute in order to improve my understanding of the architecturing modern devops app and infra and demostrate the same.
 
 ## Explore Infrastructure as Code - Terrraform and Azure Cloud Services 
