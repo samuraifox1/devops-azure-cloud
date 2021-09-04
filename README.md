@@ -43,3 +43,5 @@ TODO list of the small projects I need to execute in order to improve my underst
 * Tracebaility & Workflow: Azure DevOps Boards 
 
 
+## Temp Notes: 
+Link to go through https://purple.telstra.com/blog/terraform-with-azure-devops-pipeline
